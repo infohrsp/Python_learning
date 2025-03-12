@@ -1,0 +1,1 @@
+print(f"I went to a {input("I went to a ")} zoo.")
